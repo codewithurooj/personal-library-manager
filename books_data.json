@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Me",
+        "author": "Me",
+        "year": "2005",
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Mom",
+        "author": "Mom",
+        "year": "2023",
+        "genre": "love",
+        "read": true
+    }
+]
